@@ -1,0 +1,6 @@
+E:\Fpt\sesap\excercise\ConsoleApplication4\ConsoleApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Fpt\sesap\excercise\ConsoleApplication4\ConsoleApplication4\bin\Release\ConsoleApplication4.exe
+E:\Fpt\sesap\excercise\ConsoleApplication4\ConsoleApplication4\bin\Release\ConsoleApplication4.pdb
+E:\Fpt\sesap\excercise\ConsoleApplication4\ConsoleApplication4\bin\Release\MySql.Data.dll
+E:\Fpt\sesap\excercise\ConsoleApplication4\ConsoleApplication4\obj\x86\Release\ConsoleApplication4.exe
+E:\Fpt\sesap\excercise\ConsoleApplication4\ConsoleApplication4\obj\x86\Release\ConsoleApplication4.pdb

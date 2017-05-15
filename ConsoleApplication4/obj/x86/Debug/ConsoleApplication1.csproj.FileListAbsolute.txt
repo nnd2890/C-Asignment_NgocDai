@@ -1,0 +1,6 @@
+C:\Users\nnd2890\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nnd2890\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nnd2890\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\nnd2890\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nnd2890\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\nnd2890\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
